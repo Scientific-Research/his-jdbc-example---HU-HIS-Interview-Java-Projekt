@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<students>
+  <student id="12345">
+    <name>Max Mustermann</name>
+    <email>max@hu-berlin.de</email>
+    <grade>1.7</grade>
+  </student>
+  <student id="67890">
+    <name>Erika Musterfrau</name>
+    <email>erika@hu-berlin.de</email>
+    <grade>2.3</grade>
+  </student>
+</students>
